@@ -110,8 +110,8 @@ The project can provision:
 ### Clone Repository
 
 ```bash
-git clone https://gitlab.com/N4si/cicdtf.git
-cd cicdtf
+git clone https://gitlab.com/prem-group8494024/cicd_tf
+cd cicd_tf
 ```
 
 ### Configure GitLab Variables
